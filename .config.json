@@ -1,0 +1,7 @@
+{
+    "name": "xigua_base",
+    "entry": "main.py",
+    "validators": [".validator.py"],
+    "inherit": "",
+    "prerun":""
+}
